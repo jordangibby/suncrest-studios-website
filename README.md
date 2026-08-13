@@ -58,7 +58,7 @@ Look for the `<!-- ADD A REAL TESTIMONIAL -->` comment block above the testimoni
 Copy an existing `.site-card` inside `.site-track`, updating the link, the screenshot (`.site-shot img`), the domain shown in `.site-chrome`, and the name in `.site-meta`. Then add one more `.car-dot` button in `.car-dots` so the dot indicators match the new number of cards.
 
 ## Contact email
-The contact link and footer currently point to **jordangibby@gmail.com** as a placeholder, since a dedicated `@suncreststudios.com` inbox isn't set up yet. Search the file for that address and swap it once a real business email exists.
+The contact link and footer currently point to **suncreststudiosllc@gmail.com** as a placeholder, since a dedicated `@suncreststudios.com` inbox isn't set up yet. Search the file for that address and swap it once a real business email exists.
 
 ## Put it online (when ready)
 Upload this whole folder to any static host and it's live:
